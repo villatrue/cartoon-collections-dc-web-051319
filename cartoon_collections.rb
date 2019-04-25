@@ -3,7 +3,9 @@ def roll_call_dwarves(dwarves)
     puts "#{index+1}, #{dwarves}"
 end
 end
+
 def summon_captain_planet
+  
 end
 
 def long_planeteer_calls
