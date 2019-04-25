@@ -22,6 +22,7 @@ def find_the_cheese(contains_cheddar)
   ingredients.find do  |items|
   cheese_types.include?(items)
 end
+end
 
 # def find_the_cheese(potentially_cheesy_items)
 #   cheeses = %w(gouda cheddar camembert)
