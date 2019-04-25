@@ -12,7 +12,8 @@ end
 #   planeteer_calls.map { |call| call.capitalize + "!" }
 # end
 
-def long_planeteer_calls()
+def long_planeteer_calls(planeteer_calls)
+  planeteer_calls.any? { |calls| n > 4 }
 end
 
 def find_the_cheese
