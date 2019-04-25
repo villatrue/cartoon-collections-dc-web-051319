@@ -12,7 +12,7 @@ end
 #   planeteer_calls.map { |call| call.capitalize + "!" }
 # end
 
-def long_planeteer_calls
+def long_planeteer_calls()
 end
 
 def find_the_cheese
