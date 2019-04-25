@@ -4,7 +4,8 @@ def roll_call_dwarves(dwarves)
 end
 end
 
-def summon_captain_planet
+def summon_captain_planet(planateer_calls)
+  planateer_calls.collect |planateer_calls|
   
 end
 
